@@ -1,4 +1,4 @@
-apiversion: v1
+apiversion: v3
 kind: deployment
 metadata: 
 sepc:
