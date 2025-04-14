@@ -1,4 +1,6 @@
-apiversion: 40
+
+apiversion: 50
+
 kind: deployment
 metadata: 
 sepc:
