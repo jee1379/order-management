@@ -1,6 +1,6 @@
 
 apiversion: 50
 
-kind: deployment
+kind: deployment -stg2
 metadata: 
 sepc:
